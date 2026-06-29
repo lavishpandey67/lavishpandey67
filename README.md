@@ -1,38 +1,42 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Lavish Pandey</h1>
-  
-  <p><strong>AI Enthusiast & Builder | Transforming Businesses with Intelligent Systems</strong></p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+AI+for+Business+Transformation;Executive+Intelligence+Systems;MSME+Innovation+Frameworks" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Lavish Pandey</h1>
+  <p><strong>18 | Economics Honours Student | AI & Business Intelligence Enthusiast</strong></p>
+  <p>Building AI tools to solve real business problems • Seeking first internship in Data/AI/Business Analytics</p>
 </div>
 
 ---
 
-### 🚀 About Me
-- Passionate about leveraging **AI** to drive business transformation, especially for MSMEs and executive decision-making.
-- Currently building practical AI-powered tools, dashboards, and frameworks.
-- Open to collaborations, learning opportunities, and contributions in AI, web development, and business tech.
+### 🌟 About Me
+- Economics Honours student passionate about **leveraging AI for business transformation**.
+- Focused on practical projects combining economics, data, and technology.
+- Actively learning AI/ML, Python, and modern web technologies.
+- Open to internships, freelance opportunities, or entry-level roles in Data Analysis, Business Intelligence, or AI applications.
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠️ Skills & Tech Stack
+- **Core**: Economics, Data Analysis, Business Strategy
+- **Technical**: HTML/CSS, AI Concepts, Dashboards
+- **Learning**: Python, Machine Learning, SQL, Power BI/Tableau
 
-**Exploring:** AI/ML, Python, JavaScript, Data Visualization
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📌 Featured Projects
-- **[AI Business Transformation for MSMEs](https://github.com/lavishpandey67/AI-Business-Transformation-Framework-MSMEs)** — Blueprint for small business AI adoption.
-- **[AI Executive Intelligence OS](https://github.com/lavishpandey67/AI-powered-Executive-Intelligence-Operating-System)** — Decision support dashboards & risk engines.
+- **[AI Business Transformation Framework for MSMEs](https://github.com/lavishpandey67/AI-Business-Transformation-Framework-MSMEs)** — Practical blueprint helping small businesses adopt AI.
+- **[AI Executive Intelligence Operating System](https://github.com/lavishpandey67/AI-powered-Executive-Intelligence-Operating-System)** — Interactive dashboards for executive decision-making and risk analysis.
 
 ### 📈 GitHub Stats
-![Lavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavishpandey67&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=lavishpandey67&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavishpandey67&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavishpandey67&layout=compact&theme=radical)
+### 🎯 Goals & Aspirations
+Eager to apply economic thinking + tech skills in real-world settings. Looking for opportunities where I can contribute, learn, and grow.
 
-### 🌐 Connect With Me
-- 📧 Email: lavishpandey67@gmail.com (update if needed)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) (add yours)
-- Open to opportunities!
+### 📬 Connect & Collaborate
+- Email: lavishpandey67@gmail.com
+- LinkedIn: [Add your profile](https://linkedin.com)
+- Open to mentorship and first internship opportunities!
 
 ---
 
-*Turning AI ideas into real business value.* Thanks for visiting! ✨
+*Economics meets AI — Creating value through intelligent systems.*
+
+Thanks for visiting! Feel free to explore my projects. ✨
