@@ -32,7 +32,7 @@ Eager to apply economic thinking + tech skills in real-world settings. Looking f
 
 ### 📬 Connect & Collaborate
 - Email: lavishpandey67@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/lavishpandey-2846273a4]
+- LinkedIn: https://www.linkedin.com/in/lavish-pandey-2846273a4
 - Open to mentorship and first internship opportunities!
 
 ---
